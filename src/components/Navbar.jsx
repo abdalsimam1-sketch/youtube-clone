@@ -15,8 +15,7 @@ export const Navbar = () => {
           <input
             type="text"
             placeholder="Search"
-            style={{ border: "none" }}
-            className=" form-control flex-grow-1 px-2"
+            className=" form-control flex-grow-1 mx-2"
           />
           <i className="bi bi-search btn btn-outline-dark ms-auto"></i>
         </div>

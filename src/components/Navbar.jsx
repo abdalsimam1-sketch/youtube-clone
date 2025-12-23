@@ -10,7 +10,7 @@ export const Navbar = () => {
           <i className="bi bi-list fs-3 btn"></i>
           <img src={Logo} alt="" />
         </div>
-        <div className="search col-9 col-md-6 col-lg-3 d-flex align-items-center p-1">
+        <div className="search  col-9 col-sm-3 col-md-4 col-lg-6 d-flex align-items-center p-1">
           <i className="bi bi-search"></i>
           <input
             type="text"
